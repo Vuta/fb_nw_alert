@@ -15,10 +15,10 @@ $(document).ready(function() {
 
     function(){
         swal.close();
-        $('#contentArea').html('');
+        $('#contentCol').html('');
         clearInterval(myTimer);
     });
 
-  }, 300000);
+  }, 3000);
 
 })
