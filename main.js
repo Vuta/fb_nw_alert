@@ -19,6 +19,6 @@ $(document).ready(function() {
         clearInterval(myTimer);
     });
 
-  }, 3000);
+  }, 3000000);
 
 })
